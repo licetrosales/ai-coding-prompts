@@ -8,6 +8,7 @@ A structured and versioned library of prompts for AI-assisted coding, test-drive
 - 🧪 **Unit Test Generation**
 - 📄 **Docstring & Comment Generation**
 - 🤖 **Code Completion / Refactoring**
+- 📝 **Commit Message Generation (AI-assisted conventional commits based on diffs or descriptions)**
 
 ## Prompt Format
 
